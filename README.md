@@ -3,4 +3,4 @@
 A place where end to end systems will be designed & documented using Technologies. 
 A place of Research & Development. 
 
-Go Ahead with - https://bitslyf.com/
+Go Ahead with - bitslyf.com
